@@ -1,11 +1,15 @@
-# buildly
-Want to build a house or an apartment? Buildy can help you estimate the costs!
+# Buildly
+Want to build a house or an apartment? Buildly can help you estimate the costs!
 
 ## Technology
 This project is dependent on business logic rather than performance or a unified technology across the back-end and front-end. Additionally, the number of users is not expected to be very large. Typical users do not expect high performance, and the volume of data is low. It is important that the source code is easily understandable for non-professional software engineers. As a result, .NET/C# has been chosen over Node.js/JavaScript. For the same reasons mentioned earlier, Blazor Server has been chosen over a solution involving separate back-end and front-end. Blazor Server provides the comfort of ASP.NET MVC but is still perceived as a single-page application (SPA) by end users.
 
+## Purpose
+The primary objective of Buildly is to offer estimation services for the construction industry in Iran, with a particular focus on small residential buildings. Additionally, this product aims to showcase strong software engineering skills in the .NET and Blazor Server domains. It aspires to implement principles such as SOLID and other recognized best practices throughout the project.
+
+
 ## بیلدلی چه کار می کند؟
-ساخت و ساز در ایران کار رایجی است. هر کجا که باشید احتمالا خانه های کلنگی دور و بر خود را می بینید که تخریب شده و از اول ساخته می شوند. شهرها و شهرک های اطراف شهرهای بزرگ پر از پروژه های ساخت و ساز هستند. با این که شرکت های ساخت و ساز حضور پر رنگی در صنعت ساختمان دارند، اما، تعداد زیادی از ساختمان ها توسط سازنده ها و پیمانکاران محلی ساخته می شوند. هنوز هم در خیلی از مناطق این خود مالکین هستند که اقدام به ساخت زمین یا باسازی ملک قدیمی خود می کنند. یکی از اولین اقدامات یک پروژه ساخت و ساز، تخمین هزینه های ساخت با توجه به قیمت زمین، هزینه های اداری، میزان تراکم در دسترس، مصالح و دستمزد است. هدف بیلدلی دقیقا کمک به انجام این محاسبات است.
+ساخت و ساز در ایران کار رایجی است. هر کجا که باشید احتمالا خانه های کلنگی دور و بر خود را می بینید که تخریب شده و از اول ساخته می شوند. شهرها و شهرک های اطراف شهرهای بزرگ پر از پروژه های ساخت و ساز هستند. با این که شرکت های ساخت و ساز حضور پر رنگی در صنعت ساختمان دارند، اما، تعداد زیادی از ساختمان ها توسط سازنده ها و پیمانکاران محلی ساخته می شوند. هنوز هم در خیلی از مناطق این خود مالکین هستند که اقدام به ساخت زمین یا باسازی ملک قدیمی خود می کنند. یکی از اولین اقدامات یک پروژه ساخت و ساز، تخمین هزینه های ساخت با توجه به قیمت زمین، هزینه های اداری، میزان تراکم در دسترس، مصالح و دستمزد است. هدف بیلدلی دقیقا کمک  به انجام این محاسبات است. تمرکز بیلدلی بیشتر بر روی ساختمان های مسکونی با تعداد طبقات محدود است که عمدتا توسط سازندگان محلی و مالکان ساخته می شود. طبیعتا مخاطب اصلی این محصول کشور ایران است چون این محصول بر اساس قوانین شهرداری های ایران، سازمان های دولتی ایران، عرف ساخت و ساز در ایران و سلایق خاص ایرانی ها ساخته می شود.
 
 ## چرا بیلدلی؟
 شاید بتوان با یک فایل اکسل هم میزان میلگرد و بتن ریزی و هزینه تاسیسات و نهایتا هزینه تمام شده یک پروژه ساخت و ساز را محاسبه کرد. اما فایل اکسل نمی تواند:
