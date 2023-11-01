@@ -7,6 +7,8 @@ This project is dependent on business logic rather than performance or a unified
 ## Purpose
 The primary objective of Buildly is to offer estimation services for the construction industry in Iran, with a particular focus on small residential buildings. Additionally, this product aims to showcase strong software engineering skills in the .NET and Blazor Server domains. It aspires to implement principles such as SOLID and other recognized best practices throughout the project.
 
+## Contact
+Just send an email to "afshar.mohebbi@gmail.com".
 
 ## بیلدلی چه کار می کند؟
 ساخت و ساز در ایران کار رایجی است. هر کجا که باشید احتمالا خانه های کلنگی دور و بر خود را می بینید که تخریب شده و از اول ساخته می شوند. شهرها و شهرک های اطراف شهرهای بزرگ پر از پروژه های ساخت و ساز هستند. با این که شرکت های ساخت و ساز حضور پر رنگی در صنعت ساختمان دارند، اما، تعداد زیادی از ساختمان ها توسط سازنده ها و پیمانکاران محلی ساخته می شوند. هنوز هم در خیلی از مناطق این خود مالکین هستند که اقدام به ساخت زمین یا باسازی ملک قدیمی خود می کنند. یکی از اولین اقدامات یک پروژه ساخت و ساز، تخمین هزینه های ساخت با توجه به قیمت زمین، هزینه های اداری، میزان تراکم در دسترس، مصالح و دستمزد است. هدف بیلدلی دقیقا کمک  به انجام این محاسبات است. تمرکز بیلدلی بیشتر بر روی ساختمان های مسکونی با تعداد طبقات محدود است که عمدتا توسط سازندگان محلی و مالکان ساخته می شود. طبیعتا مخاطب اصلی این محصول کشور ایران است چون این محصول بر اساس قوانین شهرداری های ایران، سازمان های دولتی ایران، عرف ساخت و ساز در ایران و سلایق خاص ایرانی ها ساخته می شود.
