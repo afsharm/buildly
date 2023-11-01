@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buildly.Core", "Buildly.Core\Buildly.Core.csproj", "{1EA8F5C6-6926-457A-9B79-045C69AA43A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buildly.Test", "Buildly.Test\Buildly.Test.csproj", "{DAD0C796-A507-4022-8859-C44CBA94C6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buildly.UI", "Buildly.UI\Buildly.UI.csproj", "{D7CE1EF4-98CD-4830-B126-21DE4371D62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA8F5C6-6926-457A-9B79-045C69AA43A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA8F5C6-6926-457A-9B79-045C69AA43A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA8F5C6-6926-457A-9B79-045C69AA43A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA8F5C6-6926-457A-9B79-045C69AA43A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD0C796-A507-4022-8859-C44CBA94C6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD0C796-A507-4022-8859-C44CBA94C6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD0C796-A507-4022-8859-C44CBA94C6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD0C796-A507-4022-8859-C44CBA94C6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CE1EF4-98CD-4830-B126-21DE4371D62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CE1EF4-98CD-4830-B126-21DE4371D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CE1EF4-98CD-4830-B126-21DE4371D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CE1EF4-98CD-4830-B126-21DE4371D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
